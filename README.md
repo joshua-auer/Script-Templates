@@ -1,5 +1,7 @@
 # Script Templates
 
+![Script-Templates Example](https://github.com/user-attachments/assets/08738993-7cf7-4e47-b763-b2bb80657cf7)
+
 A collection of C# script templates that allow you to easily create various types of scripts from within the Unity editor. This package includes 4 templates:
 
 - MonoBehaviour
