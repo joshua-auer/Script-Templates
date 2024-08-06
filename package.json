@@ -1,0 +1,12 @@
+{
+    "name": "com.joshua-auer.script-templates",
+    "description": "Provides additional C# script templates that allow you to easily create classes, interfaces, MonoBehaviours and ScriptableObjects from within the editor.",
+    "version": "1.0.0",
+    "displayName": "Script Templates",
+    "unity": "2022.3",
+    "author": {
+        "name": "Joshua Auer",
+        "email": "joshua.auer@loop.colum.edu",
+        "url": "https://joshuaauer.wixsite.com/joshua-auer"
+    }
+}
