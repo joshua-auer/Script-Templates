@@ -13,7 +13,10 @@ A collection of C# script templates that allow you to easily create various type
 
 1. First you will need to import this package into your Unity project (see [Package Installation](#package-installation) below).
 2. Once the package has been imported into your project, you will need to install the script templates. This can be done by navigating to the top menu and selecting `Tools->Script Templates->Install Script Templates`.
-3. When the script templates have finished installing you will be prompted to restart the Unity editor. Although you don't have to restart the editor immediately, the script templates won't appear until you have restarted the editor.
+
+   ![Script-Templates Installation](https://github.com/user-attachments/assets/97bc994d-9842-4c47-8c44-b855b13880fc)
+
+4. When the script templates have finished installing you will be prompted to restart the Unity editor. Although you don't have to restart the editor immediately, the script templates won't appear until you have restarted the editor.
 
 > [!NOTE]
 > The script templates only need to be installed once per Unity editor version. Once the script templates have been installed, they will be available across any project that uses the same version. Whenever you update to a new Unity editor version, you will have to reinstall the script templates for that new editor version.
